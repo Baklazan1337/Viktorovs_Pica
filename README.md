@@ -1,6 +1,6 @@
 # LVT Uzdevums
 ## Picas Programma
-![image](https://www.foodandwine.com/recipes/classic-cheese-pizza)
+![image](https://cdna.artstation.com/p/assets/images/images/026/935/020/large/aleksandra-glabchuk-pizza-render.jpg?1590133025)
 
 _Programmas apraksts_: Varat izvēlēties, kas esat - klients vai darbinieks;
 lai ieiet Darbienieka akaunat ir jaievad logins un parole 
