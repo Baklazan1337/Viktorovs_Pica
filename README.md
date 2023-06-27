@@ -1,6 +1,6 @@
 # LVT Uzdevums
 ## Picas Programma
-![image](https://www.allrecipes.com/recipe/6776/pizza-dough-i/)
+![image][https://www.allrecipes.com/recipe/6776/pizza-dough-i/](https://www.allrecipes.com/recipe/7245/jays-signature-pizza-crust/)
 
 _Programmas apraksts_: Varat izvēlēties, kas esat - klients vai darbinieks;
 lai ieiet Darbienieka akaunat ir jaievad logins un parole 
